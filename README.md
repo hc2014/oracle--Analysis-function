@@ -1,2 +1,2 @@
 
-sql是对word的补充，带式图文讲解都说在word中
+sql是对word的补充，图文讲解都在word中
